@@ -56,22 +56,23 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+---
+
+<h3 align="center">🏆 Achievements</h3>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=khangsodzach&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=khangsodzach&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
   </a>
 </p>
 
+<h3 align="center">📊 Analytics & Habits</h3>
+
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khangsodzach&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khangsodzach&theme=algolia" alt="profile details" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/khangsodzach">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=khangsodzach&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khangsodzach&theme=algolia" alt="repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khangsodzach&theme=algolia&utcOffset=7" alt="productive time" />
 </p>
