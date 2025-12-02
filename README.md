@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bosxenyt-undefined-282293374/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="[https://www.linkedin.com/in/bosxenyt-undefined-282293374/](https://www.linkedin.com/in/khang-dang-282293374/)" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
@@ -54,13 +54,24 @@
 
 ---
 
+---
+
 <h3 align="center">📊 GitHub Stats</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khangsodzach&show_icons=true&title_color=df6262&text_color=c3c1c1&bg_color=0d1117&hide_border=true&locale=en" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khangsodzach&show_icons=true&locale=en&layout=compact&title_color=df6262&text_color=c3c1c1&bg_color=0d1117&hide_border=true" height="180" alt="languages graph" />
-</div>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=khangsodzach&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khangsodzach&theme=dark&background=0d1117&hide_border=true" alt="streak graph" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khangsodzach&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/khangsodzach">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=khangsodzach&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
