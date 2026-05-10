@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Khang</h1>
 <h3 align="center">🚀 Unity Developer | Fullstack Developer 🇻🇳</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=266C97&center=true&vCenter=true&width=435&lines=I+build+immersive+Games+with+Unity;I+build+Scalable+Web+Applications;Always+learning+new+technologies..." alt="Typing SVG" />
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=266C97&center=true&vCenter=true&width=435&lines=I+build+immersive+Games+with+Unity;I+build+Scalable+Web+Applications;Always+learning+new+technologies..." alt="Typing SVG" /> -->
 </p>
 
 <p align="center">
